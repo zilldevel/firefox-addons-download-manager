@@ -13,7 +13,7 @@ Please support the original project.
 
 Note: Most of this Readme file is unchanged from the original project, so "I" will usually be from the perspective of the original author (Nils Maier) unless otherwise noted.
 
-Note \#2: For anybody that doesn't like the new icons... Keep in mind that I am NOT a graphics designer that I likely wouldn't have bothered changing them at all if it hadn't been clearly worded as a requirement in the license. Now, please envision a poorly drawn smiley face done in MS Paint (or TuxPaint for me since I'm on Linux) - and remember that they could have been much worse. As it was, it took me quite awhile to learn my way around GIMP enough to manage this much. Since it's mostly just for my own use, I don't mind but I guess if someone really hated them enough to provide GPL/CC licensed replacements, then I'd at least consider swapping mine out.
+Note \#2: For anybody that doesn't like the new icons... Keep in mind that I (zilldevel) am NOT a graphics designer and likely wouldn't have bothered changing them at all if it hadn't been clearly worded as a requirement in the license. So please envision a poorly drawn smiley face done in MS Paint (or really TuxPaint for me since I'm on Linux) and remember that they could have been much worse. As it was, it took me quite awhile to learn my way around GIMP enough to manage this much. Since it's mostly just for my own use, I don't mind but I guess if someone really hated them enough to provide GPL/CC licensed replacements, then I guess I'd at least consider swapping mine out.
 
 
 ## Functional differences from the DTA WebExtension
