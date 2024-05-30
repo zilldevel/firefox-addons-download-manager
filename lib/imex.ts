@@ -283,9 +283,9 @@ class MetalinkExporter implements Exporter {
     const document = window.document.implementation.
       createDocument(NS_METALINK_RFC5854, "metalink", null);
     const root = document.documentElement;
-    root.setAttributeNS(NS_DTA, "generator", "DownThemAll!");
+    root.setAttributeNS(NS_DTA, "generator", "Zilldevel Download Fork");
     root.appendChild(document.createComment(
-      "metalink as exported by DownThemAll!",
+      "metalink as exported by Zilldevel Download Fork",
     ));
 
     for (const item of items) {

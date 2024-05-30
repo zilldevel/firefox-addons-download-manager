@@ -1,7 +1,7 @@
 {
   "name": "dtalite",
   "version": "4.0.0",
-  "description": "DownThemAll! lite",
+  "description": "Zilldevel Download Fork",
   "main": "main.js",
   "directories": {
     "lib": "lib"

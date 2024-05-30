@@ -232,27 +232,27 @@
     "description": "Download (verb/action); e.g. in single and select buttons"
   },
   "dta_regular": {
-    "message": "DownThemAll!",
+    "message": "Zilldevel Download Fork",
     "description": "Regular dta action; Menu text"
   },
   "dta_regular_all": {
-    "message": "DownThemAll - همه زبانه ها",
+    "message": "Zilldevel Download Fork - همه زبانه ها",
     "description": "Menu text"
   },
   "dta_regular_image": {
-    "message": "ذخیره تصویر با DownThemAll",
+    "message": "ذخیره تصویر با Zilldevel Download Fork",
     "description": "Menu text"
   },
   "dta_regular_link": {
-    "message": "DownThemAll ذخیره پیوند با",
+    "message": "Zilldevel Download Fork ذخیره پیوند با",
     "description": "Menu text"
   },
   "dta_regular_media": {
-    "message": "DownThemAll ذخیره رسانه با",
+    "message": "Zilldevel Download Fork ذخیره رسانه با",
     "description": "Menu text"
   },
   "dta_regular_selection": {
-    "message": "DownThemAll ذخیره انتخاب شده با",
+    "message": "Zilldevel Download Fork ذخیره انتخاب شده با",
     "description": "Menu text"
   },
   "dta_turbo": {
@@ -321,7 +321,7 @@
   },
   "extensionDescription": {
     "message": "Mass Downloader برای مرورگر شما",
-    "description": "DownThemAll! tagline, displayed in about:addons; Please do NOT refer to a specific browser such as firefox, as we will probably support more than one"
+    "description": "Zilldevel Download Fork tagline, displayed in about:addons; Please do NOT refer to a specific browser such as firefox, as we will probably support more than one"
   },
   "fastfiltering": {
     "message": "فیلتر کردن سریع",
@@ -450,7 +450,7 @@
     }
   },
   "manager_title": {
-    "message": "DownThemAll مدیریت",
+    "message": "Zilldevel Download Fork مدیریت",
     "description": "Window/tab title"
   },
   "mask": {
@@ -486,7 +486,7 @@
     "description": "Action for moving a download up"
   },
   "nagging_message": {
-    "message": "انجام داده اید، به عنوان یک کاربر ممکن است بخواهید کمک مالی را برای حمایت از توسعه بیشتر این افزونه در نظر بگیرید. با تشکر DownThemAll دانلود با $DOWNLOADS$ شما تابحال",
+    "message": "انجام داده اید، به عنوان یک کاربر ممکن است بخواهید کمک مالی را برای حمایت از توسعه بیشتر این افزونه در نظر بگیرید. با تشکر Zilldevel Download Fork دانلود با $DOWNLOADS$ شما تابحال",
     "description": "Donation nagging message; displayed as a notification bar in manager",
     "placeholders": {
       "downloads": {
@@ -566,7 +566,7 @@
     "description": "Menu text; Preferences"
   },
   "prefs_title": {
-    "message": "DownThemAll تنظیمات",
+    "message": "Zilldevel Download Fork تنظیمات",
     "description": "Window/tab title; Preferences"
   },
   "pref_add_paused": {
@@ -574,11 +574,11 @@
     "description": "Preferences/General"
   },
   "pref_button_type": {
-    "message": ":DownThemAll دکمه",
+    "message": ":Zilldevel Download Fork دکمه",
     "description": "label"
   },
   "pref_button_type_dta": {
-    "message": "DownThemAll منتخب",
+    "message": "Zilldevel Download Fork منتخب",
     "description": "label"
   },
   "pref_button_type_manager": {
@@ -1026,7 +1026,7 @@
     "description": "Menu text; select context"
   },
   "select_title": {
-    "message": "DownThemAll - دانلودهای خود را انتخاب کنید",
+    "message": "Zilldevel Download Fork - دانلودهای خود را انتخاب کنید",
     "description": "Title of the select window"
   },
   "SERVER_BAD_CONTENT": {
@@ -1070,7 +1070,7 @@
     "description": "Header text; single window"
   },
   "single_title": {
-    "message": "DownThemAll - اضافه کردن پیوند",
+    "message": "Zilldevel Download Fork - اضافه کردن پیوند",
     "description": "Title of single window"
   },
   "sizeB": {

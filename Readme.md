@@ -1,32 +1,28 @@
 
-![DownThemAll!](https://raw.githubusercontent.com/downthemall/downthemall/master/style/icon128.png)
+![Zilldevel Download Fork](https://raw.githubusercontent.com/zilldevel/firefox-addons-downthemall/master/style/icon128.png)
 
-# DownThemAll! WE
-
-The DownThemAll! WebExtension.
-
-For those still on supported browser: [Non-WebExtension legacy code](https://github.com/downthemall/downthemall-legacy).
+# Zilldevel Download Fork
 
 ## About
 
-This is the WebExtension version of DownThemAll!, a complete re-development from scratch.
-Being a WebExtension it lacks a ton of features the original DownThemAll! had. Sorry, but there is no way around it since Mozilla decided to adopt WebExtensions as the *only* extension type and WebExtensions are extremely limited in what they can do.
+This is a fork of [DownThemAll](https://github.com/downthemall/downthemall) by Nils Maier. For those unfamiliar with that project, I would strongly encourage you to use the original project and become familiar with that before considering mine.
 
-For what is planned (and not planned because impossible to do in WebExtensions), see [TODO.md](TODO.md).
+This fork was mostly started so that I had somewhere to test out my own changes / make my own AMO test builds. I have no intentions of competing with DTA or making this fork into viable long-term alternative. If I have any worthwhile changes, they will probably make their way into PRs in the original project at some point. If I *do* happen to forget to make a PR/get hit by a bus, I would be happy to see anything I add get picked up in the original project. The name and logo changes are just me trying to comply with DTA's [License terms](https://github.com/downthemall/downthemall/blob/master/LICENSE.md) to the best of my ability and avoid stepping on any toes.
 
-What this furthermore means is that some bugs we fixed in the original DownThemAll! are back, as we cannot do our own downloads any longer but have to go through the browser download manager always, which is notoriously bad at handling certain "quirks" real web servers in the wild show. It doesn't even handle regular 404 errors.
+Please support the original project.
 
-I spent countless hours evaluating various workarounds to enable us to do our own downloads instead of relying on the downloads API (the browser built-in downloader). From using `IndexedDB` to store retrieved chunks via `XHR`, to doing nasty service-worker tricks to fake a download that the backend would retrieve with `XHR`. The last one looks promising but I have yet to get it to work in a manner that is reliable, performs well enough and doesn't eat all the system memory for breakfast. Maybe in the future...
+Note: Most of this Readme file is unchanged from the original project, so "I" will usually be from the perspective of the original author (Nils Maier) unless otherwise noted.
 
-What this also means is that we have to write our user interface in HTML, which never looks "native" and cannot offer deep OS integration.
+Note \#2: For anybody that doesn't like the new icons... Keep in mind that I am NOT a graphics designer that I likely wouldn't have bothered changing them at all if it hadn't been clearly worded as a requirement in the license. Now, please envision a poorly drawn smiley face done in MS Paint (or TuxPaint for me since I'm on Linux) - and remember that they could have been much worse. As it was, it took me quite awhile to learn my way around GIMP enough to manage this much. Since it's mostly just for my own use, I don't mind but I guess if someone really hated them enough to provide GPL/CC licensed replacements, then I'd at least consider swapping mine out.
 
-But it is what it is...
 
-**What we *can* do and did do is bring the mass selection, organizing (renaming masks, etc) and queueing tools of DownThemAll! over to the WebExtension, so you can easily queue up hundreds or thousands files at once without the downloads going up in flames because the browser tried to download them all at once.**
+## Functional differences from the DTA WebExtension
+
+Currently none
 
 ## Translations
 
-If you would like to help out translating DTA, please see our [translation guide](_locales/Readme.md).
+While translations are always welcome, unless it is specific to some change that I (zilldevel) made, I would encourage you to submit any translation work upstream. Please see [DTA's translation guide](https://github.com/downthemall/downthemall/blob/master/_locales/Readme.md).
 
 ## Development
 
