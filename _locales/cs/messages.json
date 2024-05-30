@@ -232,27 +232,27 @@
     "description": "Download (verb/action); e.g. in single and select buttons"
   },
   "dta_regular": {
-    "message": "Zilldevel Download Fork",
+    "message": "Zilldevel Download Manager",
     "description": "Regular dta action; Menu text"
   },
   "dta_regular_all": {
-    "message": "Zilldevel Download Fork - Všechny záložky",
+    "message": "Zilldevel Download Manager - Všechny záložky",
     "description": "Menu text"
   },
   "dta_regular_image": {
-    "message": "Stáhnout obrázek pomocí Zilldevel Download Fork",
+    "message": "Stáhnout obrázek pomocí Zilldevel Download Manager",
     "description": "Menu text"
   },
   "dta_regular_link": {
-    "message": "Stáhnout odkaz pomocí Zilldevel Download Fork",
+    "message": "Stáhnout odkaz pomocí Zilldevel Download Manager",
     "description": "Menu text"
   },
   "dta_regular_media": {
-    "message": "Stáhnout média pomocí Zilldevel Download Fork",
+    "message": "Stáhnout média pomocí Zilldevel Download Manager",
     "description": "Menu text"
   },
   "dta_regular_selection": {
-    "message": "Stáhnout vybrané pomocí Zilldevel Download Fork",
+    "message": "Stáhnout vybrané pomocí Zilldevel Download Manager",
     "description": "Menu text"
   },
   "dta_turbo": {
@@ -321,7 +321,7 @@
   },
   "extensionDescription": {
     "message": "Správce stahování pro Váš prohlížeč",
-    "description": "Zilldevel Download Fork tagline, displayed in about:addons; Please do NOT refer to a specific browser such as firefox, as we will probably support more than one"
+    "description": "Zilldevel Download Manager tagline, displayed in about:addons; Please do NOT refer to a specific browser such as firefox, as we will probably support more than one"
   },
   "fastfiltering": {
     "message": "Rychlé filtrování",
@@ -450,7 +450,7 @@
     }
   },
   "manager_title": {
-    "message": "Zilldevel Download Fork Manažer",
+    "message": "Zilldevel Download Manager Manažer",
     "description": "Window/tab title"
   },
   "mask": {
@@ -486,7 +486,7 @@
     "description": "Action for moving a download up"
   },
   "nagging_message": {
-    "message": "Již bylo stáhnuto $DOWNLOADS$ souborů pomocí Zilldevel Download Fork Jako častý uživatel byste mohl/a podpořit další vývoj darem. Děkujeme!",
+    "message": "Již bylo stáhnuto $DOWNLOADS$ souborů pomocí Zilldevel Download Manager Jako častý uživatel byste mohl/a podpořit další vývoj darem. Děkujeme!",
     "description": "Donation nagging message; displayed as a notification bar in manager",
     "placeholders": {
       "downloads": {
@@ -566,7 +566,7 @@
     "description": "Menu text; Preferences"
   },
   "prefs_title": {
-    "message": "Nastavení Zilldevel Download Fork",
+    "message": "Nastavení Zilldevel Download Manager",
     "description": "Window/tab title; Preferences"
   },
   "pref_add_paused": {
@@ -574,11 +574,11 @@
     "description": "Preferences/General"
   },
   "pref_button_type": {
-    "message": "Tlačítko Zilldevel Download Fork:",
+    "message": "Tlačítko Zilldevel Download Manager:",
     "description": "label"
   },
   "pref_button_type_dta": {
-    "message": "Zilldevel Download Fork selektor",
+    "message": "Zilldevel Download Manager selektor",
     "description": "label"
   },
   "pref_button_type_manager": {
@@ -1026,7 +1026,7 @@
     "description": "Menu text; select context"
   },
   "select_title": {
-    "message": "Zilldevel Download Fork - Vyberte soubory ke stažení",
+    "message": "Zilldevel Download Manager - Vyberte soubory ke stažení",
     "description": "Title of the select window"
   },
   "SERVER_BAD_CONTENT": {
@@ -1070,7 +1070,7 @@
     "description": "Header text; single window"
   },
   "single_title": {
-    "message": "Zilldevel Download Fork - Přidat odkaz",
+    "message": "Zilldevel Download Manager - Přidat odkaz",
     "description": "Title of single window"
   },
   "sizeB": {

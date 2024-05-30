@@ -1,7 +1,7 @@
 {
   "name": "dtalite",
   "version": "4.0.0",
-  "description": "Zilldevel Download Fork",
+  "description": "Zilldevel Download Manager",
   "main": "main.js",
   "directories": {
     "lib": "lib"

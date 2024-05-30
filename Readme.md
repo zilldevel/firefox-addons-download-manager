@@ -1,19 +1,19 @@
 
-![Zilldevel Download Fork](https://raw.githubusercontent.com/zilldevel/firefox-addons-downthemall/master/style/icon128.png)
+![Zilldevel Download Manager](https://raw.githubusercontent.com/zilldevel/firefox-addons-downthemall/master/style/icon128.png)
 
-# Zilldevel Download Fork
+# Zilldevel Download Manager
 
 ## About
 
 This is a fork of [DownThemAll](https://github.com/downthemall/downthemall) by Nils Maier. For those unfamiliar with that project, I would strongly encourage you to use the original project and become familiar with that before considering mine.
 
-This fork was mostly started so that I had somewhere to test out my own changes / make my own AMO test builds. I have no intentions of competing with DTA or making this fork into viable long-term alternative. If I have any worthwhile changes, they will probably make their way into PRs in the original project at some point. If I *do* happen to forget to make a PR/get hit by a bus, I would be happy to see anything I add get picked up in the original project. The name and logo changes are just me trying to comply with DTA's [License terms](https://github.com/downthemall/downthemall/blob/master/LICENSE.md) to the best of my ability and avoid stepping on any toes.
+This fork was mostly started so that I had somewhere to test out my own changes / make my own AMO test builds. I have no intentions of competing with DTA or stealing its glory. If I have any worthwhile changes, they will probably make their way into PRs in the original project at some point. If I *do* happen to forget to make a PR/get hit by a bus, I would be happy to see anything I add get picked up in the original project. The name and logo changes are just me trying to comply with DTA's [License terms](https://github.com/downthemall/downthemall/blob/master/LICENSE.md) to the best of my ability and avoid stepping on any toes.
 
-Please support the original project.
+**Please support the original project/author.**
 
 Note: Most of this Readme file is unchanged from the original project, so "I" will usually be from the perspective of the original author (Nils Maier) unless otherwise noted.
 
-Note \#2: For anybody that doesn't like the new icons... Keep in mind that I (zilldevel) am NOT a graphics designer and likely wouldn't have bothered changing them at all if it hadn't been clearly worded as a requirement in the license. So please envision a poorly drawn smiley face done in MS Paint (or really TuxPaint for me since I'm on Linux) and remember that they could have been much worse. As it was, it took me quite awhile to learn my way around GIMP enough to manage this much. Since it's mostly just for my own use, I don't mind but I guess if someone really hated them enough to provide GPL/CC licensed replacements, then I guess I'd at least consider swapping mine out.
+Note \#2: For anybody that doesn't like the new icons... Keep in mind that I (zilldevel) am NOT a graphics designer and likely wouldn't have bothered changing them at all if it hadn't been clearly worded as a requirement in the license. So please envision a poorly drawn smiley face done in MS Paint (or really TuxPaint for me since I'm on Linux) and remember that they could have been much worse. As it was, it took me quite awhile to learn my way around GIMP enough to manage this much. Rest assured that I have no false delusions about my graphics design (dis-)abilities. Since it's mostly just for my own use, I don't mind but I guess if someone really hates them that much and wants to provide better replacements under a GPL/CC/etc license, then I'd probably at least consider swapping mine out.
 
 
 ## Functional differences from the DTA WebExtension

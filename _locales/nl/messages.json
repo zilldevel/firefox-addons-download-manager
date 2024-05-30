@@ -265,27 +265,27 @@
   },
   "dta_regular": {
     "description": "Regular dta action; Menu text",
-    "message": "Zilldevel Download Fork"
+    "message": "Zilldevel Download Manager"
   },
   "dta_regular_all": {
     "description": "Menu text",
-    "message": "Zilldevel Download Fork - Alle Tabbladen"
+    "message": "Zilldevel Download Manager - Alle Tabbladen"
   },
   "dta_regular_image": {
     "description": "Menu text",
-    "message": "Afbeelding opslaan met Zilldevel Download Fork"
+    "message": "Afbeelding opslaan met Zilldevel Download Manager"
   },
   "dta_regular_link": {
     "description": "Menu text",
-    "message": "Link opslaan met Zilldevel Download Fork"
+    "message": "Link opslaan met Zilldevel Download Manager"
   },
   "dta_regular_media": {
     "description": "Menu text",
-    "message": "Media opslaan met Zilldevel Download Fork"
+    "message": "Media opslaan met Zilldevel Download Manager"
   },
   "dta_regular_selection": {
     "description": "Menu text",
-    "message": "Selectie opslaan met Zilldevel Download Fork"
+    "message": "Selectie opslaan met Zilldevel Download Manager"
   },
   "dta_turbo": {
     "description": "OneClick! action; Menu text",
@@ -352,7 +352,7 @@
     "message": "Exporteer als tekst"
   },
   "extensionDescription": {
-    "description": "Zilldevel Download Fork tagline, displayed in about:addons; Please do NOT refer to a specific browser such as firefox, as we will probably support more than one",
+    "description": "Zilldevel Download Manager tagline, displayed in about:addons; Please do NOT refer to a specific browser such as firefox, as we will probably support more than one",
     "message": "De bulkdownloader voor uw browser"
   },
   "fastfilter_placeholder": {
@@ -479,7 +479,7 @@
   },
   "manager_title": {
     "description": "Window/tab title",
-    "message": "Zilldevel Download Fork beheerder"
+    "message": "Zilldevel Download Manager beheerder"
   },
   "mask": {
     "description": "Renaming mask (short); used in e.g. select",
@@ -515,7 +515,7 @@
   },
   "nagging_message": {
     "description": "Donation nagging message; displayed as a notification bar in manager",
-    "message": "U heeft al $DOWNLOADS$ downloads toegevoegd met Zilldevel Download Fork Als regelmatige gebruiker wilt u wellicht een donatie overwegen om verdere ontwikkeling te ondersteunen. Alvast bedankt!",
+    "message": "U heeft al $DOWNLOADS$ downloads toegevoegd met Zilldevel Download Manager Als regelmatige gebruiker wilt u wellicht een donatie overwegen om verdere ontwikkeling te ondersteunen. Alvast bedankt!",
     "placeholders": {
       "downloads": {
         "content": "$1",
@@ -587,11 +587,11 @@
   },
   "pref_button_type": {
     "description": "label",
-    "message": "Zilldevel Download Fork knop:"
+    "message": "Zilldevel Download Manager knop:"
   },
   "pref_button_type_dta": {
     "description": "label",
-    "message": "Zilldevel Download Fork selectie"
+    "message": "Zilldevel Download Manager selectie"
   },
   "pref_button_type_manager": {
     "description": "label",
@@ -699,7 +699,7 @@
   },
   "prefs_title": {
     "description": "Window/tab title; Preferences",
-    "message": "Zilldevel Download Fork voorkeuren"
+    "message": "Zilldevel Download Manager voorkeuren"
   },
   "queue_finished": {
     "description": "Notification text",
@@ -1055,7 +1055,7 @@
   },
   "select_title": {
     "description": "Title of the select window",
-    "message": "Zilldevel Download Fork - Selecteer uw Downloads"
+    "message": "Zilldevel Download Manager - Selecteer uw Downloads"
   },
   "set_mask": {
     "description": "Menu text; select window",
@@ -1083,7 +1083,7 @@
   },
   "single_title": {
     "description": "Title of single window",
-    "message": "Zilldevel Download Fork - Link toevoegen"
+    "message": "Zilldevel Download Manager - Link toevoegen"
   },
   "sizeB": {
     "description": "Size formatting; bytes",

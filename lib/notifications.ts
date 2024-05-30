@@ -8,7 +8,7 @@ import {EventEmitter} from "./events";
 const DEFAULTS = {
   type: "basic",
   iconUrl: runtime.getURL("/style/icon64.png"),
-  title: "Zilldevel Download Fork",
+  title: "Zilldevel Download Manager",
   message: "message",
 };
 

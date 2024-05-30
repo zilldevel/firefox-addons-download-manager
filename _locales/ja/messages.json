@@ -232,27 +232,27 @@
     "description": "Download (verb/action); e.g. in single and select buttons"
   },
   "dta_regular": {
-    "message": "Zilldevel Download Fork",
+    "message": "Zilldevel Download Manager",
     "description": "Regular dta action; Menu text"
   },
   "dta_regular_all": {
-    "message": "Zilldevel Download Fork - 全てのタブ",
+    "message": "Zilldevel Download Manager - 全てのタブ",
     "description": "Menu text"
   },
   "dta_regular_image": {
-    "message": "画像をZilldevel Download Fork で保存する",
+    "message": "画像をZilldevel Download Manager で保存する",
     "description": "Menu text"
   },
   "dta_regular_link": {
-    "message": "リンク先をZilldevel Download Fork で保存する",
+    "message": "リンク先をZilldevel Download Manager で保存する",
     "description": "Menu text"
   },
   "dta_regular_media": {
-    "message": "メディアをZilldevel Download Fork で保存する",
+    "message": "メディアをZilldevel Download Manager で保存する",
     "description": "Menu text"
   },
   "dta_regular_selection": {
-    "message": "選択項目をZilldevel Download Fork で保存する",
+    "message": "選択項目をZilldevel Download Manager で保存する",
     "description": "Menu text"
   },
   "dta_turbo": {
@@ -321,7 +321,7 @@
   },
   "extensionDescription": {
     "message": "ブラウザ用マスダウンローダー",
-    "description": "Zilldevel Download Fork tagline, displayed in about:addons; Please do NOT refer to a specific browser such as firefox, as we will probably support more than one"
+    "description": "Zilldevel Download Manager tagline, displayed in about:addons; Please do NOT refer to a specific browser such as firefox, as we will probably support more than one"
   },
   "fastfiltering": {
     "message": "高速フィルタリング",
@@ -450,7 +450,7 @@
     }
   },
   "manager_title": {
-    "message": "Zilldevel Download Fork マネージャ",
+    "message": "Zilldevel Download Manager マネージャ",
     "description": "Window/tab title"
   },
   "mask": {
@@ -486,7 +486,7 @@
     "description": "Action for moving a download up"
   },
   "nagging_message": {
-    "message": "これまでZilldevel Download Forkで$DOWNLOADS$ダウンロードを追加しました！ 通常のユーザーとして、さらなる開発を支援するために寄付を検討することができます。 皆様のご協力、心よりお待ち致しております。",
+    "message": "これまでZilldevel Download Managerで$DOWNLOADS$ダウンロードを追加しました！ 通常のユーザーとして、さらなる開発を支援するために寄付を検討することができます。 皆様のご協力、心よりお待ち致しております。",
     "description": "Donation nagging message; displayed as a notification bar in manager",
     "placeholders": {
       "downloads": {
@@ -566,7 +566,7 @@
     "description": "Menu text; Preferences"
   },
   "prefs_title": {
-    "message": "Zilldevel Download Fork 設定",
+    "message": "Zilldevel Download Manager 設定",
     "description": "Window/tab title; Preferences"
   },
   "pref_add_paused": {
@@ -574,7 +574,7 @@
     "description": "Preferences/General"
   },
   "pref_button_type": {
-    "message": "Zilldevel Download Fork ｱｲｺﾝｸﾘｯｸ時:",
+    "message": "Zilldevel Download Manager ｱｲｺﾝｸﾘｯｸ時:",
     "description": "label"
   },
   "pref_button_type_dta": {
@@ -1026,7 +1026,7 @@
     "description": "Menu text; select context"
   },
   "select_title": {
-    "message": "Zilldevel Download Fork - ダウンロードの選択",
+    "message": "Zilldevel Download Manager - ダウンロードの選択",
     "description": "Title of the select window"
   },
   "SERVER_BAD_CONTENT": {
@@ -1070,7 +1070,7 @@
     "description": "Header text; single window"
   },
   "single_title": {
-    "message": "Zilldevel Download Fork - リンクを追加",
+    "message": "Zilldevel Download Manager - リンクを追加",
     "description": "Title of single window"
   },
   "sizeB": {

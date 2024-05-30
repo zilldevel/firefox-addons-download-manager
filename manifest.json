@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Zilldevel Download Fork",
+  "name": "Zilldevel Download Manager",
   "version": "4.12.1.0",
 
   "description": "__MSG_extensionDescription__",
@@ -56,7 +56,7 @@
       "128": "style/icon128.png",
       "256": "style/icon256.png"
     },
-    "default_title": "Zilldevel Download Fork"
+    "default_title": "Zilldevel Download Manager"
   },
 
   "options_ui": {
